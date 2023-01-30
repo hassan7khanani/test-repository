@@ -1,3 +1,7 @@
 hello world 123
 
+<<<<<<< HEAD
 how are you?
+=======
+commit 2
+>>>>>>> a31072499202bd36f8c0908076bc9fb44819b4a8
